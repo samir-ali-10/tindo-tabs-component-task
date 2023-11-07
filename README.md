@@ -10,4 +10,5 @@ This is a customizable and reusable tab component built with React, designed to 
 </ul>
 
 <h2>How to set up and use the component</h2>
-<p>Simply import the project and it will work without any problem</p>
+<p>Simply import the project and it will work without any problem or your can use the live preview below</p>
+<p>https://tindo-tabs-component-task.vercel.app/</p>
